@@ -13,5 +13,6 @@ Use the following commands to navigate through the dungeon:
 - right - Move right
 - left - Move left
 - stop - End the game
-Your goal is to find the exit without hitting any walls.
-The dungeon size and layout will change each time you play, providing endless fun and challenge.
+
+# Objective
+Your goal is to find the key for open the chess.
